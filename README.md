@@ -35,17 +35,17 @@ by making changes, submmiting changes and reporting  issues
 
 ## Tests
 
-Navigates to the project directory.
-Checks if package.json exists.
-Adds a test script to package.json if it doesn't exist.
-Runs npm test to execute any defined tests.
-Checks if index.js can run without errors.
+-Navigates to the project directory.
+-Checks if package.json exists.
+-Adds a test script to package.json if it doesn't exist.
+-Runs npm test to execute any defined tests.
+-Checks if index.js can run without errors.
 
 To use this script:
 
-Copy the entire script.
-Paste it into your terminal.
-Press Enter to run the tests.
+-Copy the entire script.
+-Paste it into your terminal.
+-Press Enter to run the tests.
 
 ## Questions
 
