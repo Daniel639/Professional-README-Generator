@@ -59,3 +59,7 @@ For additional questions, please email me at the address provided above.
 ## Deployment
 
 [Link to Deployment](https://daniel639.github.io/Professional-README-Generator/)
+
+## Screensharing
+
+[Watch the Screen Recording](https://youtu.be/eS4xyhObZkE)
